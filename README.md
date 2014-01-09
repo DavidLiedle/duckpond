@@ -3,6 +3,9 @@ DuckPond
 
 DuckPond is a management tool to swap USB Rubber Ducky payloads in and out of active use.
 
+The BASH script in the /SHELL directory is the current prototype. The Java stuff is just
+there as a placeholder for now.
+
 You can join in the conversation about how things should work on irc.hak5.org in #ducky
 
 The current vision is thus:

@@ -1,0 +1,1 @@
+This Template section exists to demonstrate the desired folder and file structure for DuckPond-enabled USB Rubber Ducky MicroSD cards
